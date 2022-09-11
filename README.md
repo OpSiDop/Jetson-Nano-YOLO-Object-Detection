@@ -56,3 +56,56 @@ Other than the kit we have connected some other required objects-
 
 # Results from our kit -
 https://user-images.githubusercontent.com/93781577/189527141-5a412f5c-7793-498a-8708-5013a0a5fde1.mp4
+
+## Authors  -
+<div align="left"> 
+  <table>
+<tr align="left">
+ <td>
+
+#### Aryan Raj
+<p align="center">
+<img src = "https://avatars.githubusercontent.com/u/75358720?v=4"  height="120" alt="Aryan Raj">
+</p>
+<p align="center">
+<a href = "https://github.com/aryanraj2713"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
+<a href = "https://www.linkedin.com/in/aryan-raj-3a68b39a/">
+<img src = "http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/>
+</a>
+</p>
+ <strong>ML and CV Developer<strong>
+</td>
+
+
+ <td>
+
+#### Sidhartha Raghaw
+<p align="center">
+<img src = "![image](https://user-images.githubusercontent.com/93781577/189527580-d6aab457-1824-4cbc-9e49-0c6edf161f5e.png)"  height="120" alt="Aryan Raj">
+</p>
+<p align="center">
+<a href = https://github.com/OpSiDop"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
+<a href = "https://www.linkedin.com/in/Srivastava57Harsh/">
+<img src = "http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/>
+</a>
+</p>
+ <strong>FLUTTER Developer<strong>
+
+
+   
+
+ <td>
+
+#### Paras Atal
+<p align="center">
+<img src = "![image](https://user-images.githubusercontent.com/93781577/189527654-b0b94497-7241-4d70-8679-312cd2431177.png)"  height="120" alt="Aryan Raj">
+</p>
+<p align="center">
+<a href = "https://github.com/ParasAtal"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
+<a href = "https://www.linkedin.com/in/nikhil-ivannan-351036201/">
+<img src = "http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/>
+</a>
+</p>
+ <strong>Competitve Programmer<strong>
+</td>
+  <td>
