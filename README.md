@@ -101,7 +101,7 @@ https://user-images.githubusercontent.com/93781577/189527141-5a412f5c-7793-498a-
 <img src = "https://instagram.fmaa8-1.fna.fbcdn.net/v/t51.2885-15/296315596_190398770048024_3637669814111720342_n.webp?stp=dst-jpg_e35&_nc_ht=instagram.fmaa8-1.fna.fbcdn.net&_nc_cat=108&_nc_ohc=RlcfJ6xf54cAX9l6dFc&edm=ALQROFkBAAAA&ccb=7-5&ig_cache_key=Mjg5MzgzMTE0NDQ5NTk3NjcwMQ%3D%3D.2-ccb7-5&oh=00_AT_u9TsDtmoWTxVNfGSZQiIA_fLC7442wbt5fFttMm8Wqg&oe=632412DD&_nc_sid=30a2ef"  height="120" >
 </p>
 <p align="center">
-<a href = "https://github.com/ParasAtal"><img src = "[http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg](https://www.iconninja.com/files/914/672/909/github-icon.png)" width="36" height = "36"/></a>
+<a href = "https://github.com/ParasAtal"><img src = "https://www.iconninja.com/files/914/672/909/github-icon.png" width="36" height = "36"/></a>
 <a href = "https://www.instagram.com/paras_atal/">
 <img src = "https://www.iconninja.com/files/268/699/635/instagram-icon.png" width="36" height="36"/>
 </a>
