@@ -8,7 +8,7 @@ The NVIDIA Jetson Nano Developer Kit is an AI computer for makers, learners, and
 We are grateful to NVIDIA and SRM Institute of Science and Technology for giving us the opportunity to work on this project.
 
 # Setting up NVIDIA Jetson Nano
-For setting up the kit for the first time we reffred to the tutorial made by the NVIDIA Developer - [Vedio Link](https://youtu.be/uvU8AXY1170)
+For setting up the kit for the first time we reffered to the tutorial made by the NVIDIA Developer - [Vedio Link](https://youtu.be/uvU8AXY1170)
 
 
 Other than the kit we have connected some other required objects-
