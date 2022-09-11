@@ -27,3 +27,31 @@ Other than the kit we have connected some other required objects-
  cd darknet
  ```
  
+2. Enable GPU and OpenCV support by editing the Makefile and also compile the makefile-
+ ```
+ sudo nano Makefile
+ ```
+   Set the following values to enable GPU and OpenCV support-
+ >  GPU=1
+ 
+ >  CUDNN=1
+ 
+ >  OPENCV=1
+
+ ```
+ make
+ ```
+
+3. To run object detection with Darknet, we need a model config and model weights(in the cfg directory).
+ ```
+ wget https://pjreddie.com/media/files/yolov3.weights
+ wget https://pjreddie.com/media/files/yolov3-tiny.weights
+ ```
+
+4. We are done with installation part and we need to run the camera module to see the predictions in real time-
+ ```
+ detectnet-camera.py
+ ```
+#Results from our kit -
+
+
