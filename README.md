@@ -9,3 +9,12 @@ We are grateful to NVIDIA and SRM Institute of Science and Technology for giving
 
 # Setting up NVIDIA Jetson Nano
 For setting up the kit for the first time we reffred to the tutorial made by the NVIDIA Developer - [Vedio Link](https://youtu.be/uvU8AXY1170)
+
+
+Other than the kit we have connected some other required objects-
+1. IMX-219-77 Camera Module 
+2. Ethernet connection
+3. External Monitor/Display
+4. 32GB MicroSD Card
+5. HDMI Cable
+6. Power Adapter with Supply
