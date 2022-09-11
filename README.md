@@ -19,3 +19,11 @@ Other than the kit we have connected some other required objects-
 5. HDMI Cable
 6. Power Adapter with Supply
 ![Nano config](https://user-images.githubusercontent.com/75358720/189518539-cd1f3a96-e6f4-4110-b0c2-f101fbb7778e.jpeg)
+
+# Setting up YOLO-Object Detection
+1. We will be installing Darknet using the Jetson's terminal from [AlexeyAB/darknet](https://github.com/AlexeyAB/darknet.git).
+ ```
+ git clone https://github.com/AlexeyAB/darknet.git
+ cd darknet
+ ```
+ 
