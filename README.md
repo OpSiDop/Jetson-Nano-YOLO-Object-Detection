@@ -18,3 +18,4 @@ Other than the kit we have connected some other required objects-
 4. 32GB MicroSD Card
 5. HDMI Cable
 6. Power Adapter with Supply
+![Nano config](https://user-images.githubusercontent.com/75358720/189518539-cd1f3a96-e6f4-4110-b0c2-f101fbb7778e.jpeg)
