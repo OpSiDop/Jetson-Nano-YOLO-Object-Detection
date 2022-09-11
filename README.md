@@ -63,7 +63,7 @@ https://user-images.githubusercontent.com/93781577/189527141-5a412f5c-7793-498a-
 <tr align="left">
  <td>
 
-#### Aryan Raj
+####     Aryan Raj
 <p align="center">
 <img src = "https://avatars.githubusercontent.com/u/75358720?v=4"  height="120" alt="Aryan Raj">
 </p>
@@ -79,7 +79,7 @@ https://user-images.githubusercontent.com/93781577/189527141-5a412f5c-7793-498a-
 
  <td>
 
-#### Sidhartha Raghaw
+####  Sidhartha Raghaw
 <p align="center">
 <img src = "https://instagram.fmaa8-1.fna.fbcdn.net/v/t51.2885-15/273433026_102563928955254_1782636919767645604_n.webp?stp=dst-jpg_e35&_nc_ht=instagram.fmaa8-1.fna.fbcdn.net&_nc_cat=106&_nc_ohc=NXTVNl28yy4AX_OnZMS&edm=ALQROFkBAAAA&ccb=7-5&ig_cache_key=Mjc2ODU0NzE5MzMxMTY0ODkyMA%3D%3D.2-ccb7-5&oh=00_AT9oiwIVRFLnJvGc2BfW9flk8DQv28zHYNyzU2KSFn2E8w&oe=63254BB9&_nc_sid=30a2ef"  height="120">
 </p>
@@ -96,7 +96,7 @@ https://user-images.githubusercontent.com/93781577/189527141-5a412f5c-7793-498a-
 
  <td>
 
-#### Paras Atal
+####        Paras Atal
 <p align="center">
 <img src = "https://instagram.fmaa8-1.fna.fbcdn.net/v/t51.2885-15/296315596_190398770048024_3637669814111720342_n.webp?stp=dst-jpg_e35&_nc_ht=instagram.fmaa8-1.fna.fbcdn.net&_nc_cat=108&_nc_ohc=RlcfJ6xf54cAX9l6dFc&edm=ALQROFkBAAAA&ccb=7-5&ig_cache_key=Mjg5MzgzMTE0NDQ5NTk3NjcwMQ%3D%3D.2-ccb7-5&oh=00_AT_u9TsDtmoWTxVNfGSZQiIA_fLC7442wbt5fFttMm8Wqg&oe=632412DD&_nc_sid=30a2ef"  height="120" >
 </p>
