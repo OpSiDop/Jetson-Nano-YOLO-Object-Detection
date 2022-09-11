@@ -52,7 +52,7 @@ Other than the kit we have connected some other required objects-
  ```
  detectnet-camera.py
  ```
+
+
 # Results from our kit -
- 
-
-
+https://user-images.githubusercontent.com/93781577/189527141-5a412f5c-7793-498a-8708-5013a0a5fde1.mp4
