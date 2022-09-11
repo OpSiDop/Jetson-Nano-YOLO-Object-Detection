@@ -106,6 +106,6 @@ https://user-images.githubusercontent.com/93781577/189527141-5a412f5c-7793-498a-
 <img src = "https://www.iconninja.com/files/268/699/635/instagram-icon.png" width="36" height="36"/>
 </a>
 </p>
- <strong>Competitve Programmer<strong>
+ <strong>ML and Web Developer<strong>
 </td>
   <td>
