@@ -18,11 +18,7 @@ Other than the kit we have connected some other required objects-
 4. 32GB MicroSD Card
 5. HDMI Cable
 6. Power Adapter with Supply
-
-
-
-
-
+![image](https://user-images.githubusercontent.com/93781577/189525144-123a5efe-793d-4be1-82c5-d4fcef20266c.png)
 
 # Setting up YOLO-Object Detection
 1. We will be installing Darknet using the Jetson's terminal from [AlexeyAB/darknet](https://github.com/AlexeyAB/darknet.git).
