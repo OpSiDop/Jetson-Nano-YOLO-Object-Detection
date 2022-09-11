@@ -81,7 +81,7 @@ https://user-images.githubusercontent.com/93781577/189527141-5a412f5c-7793-498a-
 
 #### Sidhartha Raghaw
 <p align="center">
-<img src = "![image](https://user-images.githubusercontent.com/93781577/189527580-d6aab457-1824-4cbc-9e49-0c6edf161f5e.png)"  height="120">
+<img src = "https://instagram.fmaa8-1.fna.fbcdn.net/v/t51.2885-15/273433026_102563928955254_1782636919767645604_n.webp?stp=dst-jpg_e35&_nc_ht=instagram.fmaa8-1.fna.fbcdn.net&_nc_cat=106&_nc_ohc=NXTVNl28yy4AX_OnZMS&edm=ALQROFkBAAAA&ccb=7-5&ig_cache_key=Mjc2ODU0NzE5MzMxMTY0ODkyMA%3D%3D.2-ccb7-5&oh=00_AT9oiwIVRFLnJvGc2BfW9flk8DQv28zHYNyzU2KSFn2E8w&oe=63254BB9&_nc_sid=30a2ef"  height="120">
 </p>
 <p align="center">
 <a href = https://github.com/OpSiDop"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
