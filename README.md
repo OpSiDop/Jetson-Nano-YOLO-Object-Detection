@@ -81,7 +81,7 @@ https://user-images.githubusercontent.com/93781577/189527141-5a412f5c-7793-498a-
 
 #### Sidhartha Raghaw
 <p align="center">
-<img src = "![image](https://user-images.githubusercontent.com/93781577/189527580-d6aab457-1824-4cbc-9e49-0c6edf161f5e.png)"  height="120" alt="Aryan Raj">
+<img src = "![image](https://user-images.githubusercontent.com/93781577/189527580-d6aab457-1824-4cbc-9e49-0c6edf161f5e.png)"  height="120">
 </p>
 <p align="center">
 <a href = https://github.com/OpSiDop"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
@@ -98,7 +98,7 @@ https://user-images.githubusercontent.com/93781577/189527141-5a412f5c-7793-498a-
 
 #### Paras Atal
 <p align="center">
-<img src = "![image](https://user-images.githubusercontent.com/93781577/189527654-b0b94497-7241-4d70-8679-312cd2431177.png)"  height="120" alt="Aryan Raj">
+<img src = "![image](https://user-images.githubusercontent.com/93781577/189527654-b0b94497-7241-4d70-8679-312cd2431177.png)"  height="120" >
 </p>
 <p align="center">
 <a href = "https://github.com/ParasAtal"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
