@@ -69,7 +69,7 @@ https://user-images.githubusercontent.com/93781577/189527141-5a412f5c-7793-498a-
 </p>
 <p align="center">
 <a href = "https://github.com/aryanraj2713"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
-<a href = "(https://www.instagram.com/aryan_raj_1312/)">
+<a href = "https://www.instagram.com/aryan_raj_1312/">
 <img src = "https://www.iconninja.com/files/268/699/635/instagram-icon.png" width="36" height="36"/>
 </a>
 </p>
