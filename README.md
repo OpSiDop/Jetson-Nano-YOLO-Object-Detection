@@ -102,7 +102,7 @@ https://user-images.githubusercontent.com/93781577/189527141-5a412f5c-7793-498a-
 </p>
 <p align="center">
 <a href = "https://github.com/ParasAtal"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
-<a href = "[https://www.linkedin.com/in/nikhil-ivannan-351036201/](https://www.instagram.com/paras_atal/)">
+<a href = "[[https://www.linkedin.com/in/nikhil-ivannan-351036201/](https://www.instagram.com/paras_atal/)](https://www.instagram.com/paras_atal/)">
 <img src = "https://www.iconninja.com/files/268/699/635/instagram-icon.png" width="36" height="36"/>
 </a>
 </p>
